@@ -1,0 +1,10 @@
+{
+  "client_id": "https://raw.githubusercontent.com/Rishirandhawa/luma-oauth-client/main/luma-client.json",
+  "client_name": "Jewel (Muse) for Luma",
+  "client_uri": "https://muse.ai",
+  "redirect_uris": ["https://example.com/luma-callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "application_type": "web"
+}
